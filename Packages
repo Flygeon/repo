@@ -18,7 +18,6 @@ Package: com.flygeon.fiona
 Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: flygeon
-Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware (>= 14.0), com.mrgcgamer.libgcuniversal
 Filename: debs/rootless/com.byg.iosios.net.fanqieread_0.1-1_iphoneos-arm64.deb
 Size: 121916
@@ -29,3 +28,17 @@ Section: Tweaks
 Description: 搬运至搬运工源（byg.iosios.net）美化工具，应用底栏悬浮
 Author: yan
 Name: Fiona底栏调整-rootless
+
+Package: com.flygeon.about
+Version: 114514
+Architecture: iphoneos-arm64
+Maintainer: flygeon
+Depends: mobilesubstrate (>= 0.9.5000)
+Size: 1919810
+MD5sum: 114514
+SHA1: 114514
+SHA256: 114514
+Section: 关于本源
+Description: 源主比较懒，随缘更新，主要是自用，本人设备：iPhone 6s（15.8.1多巴胺）；iPhone XR（13.3奥德赛）
+Author: flygeon
+Name: 关于本源
