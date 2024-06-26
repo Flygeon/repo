@@ -13,3 +13,19 @@ Section: Tweaks
 Description: 搬运至搬运工源（byg.iosios.net）去除广告，解锁VIP
 Author: iOSign
 Name: 番茄小说hook-rootless
+
+Package: com.flygeon.fiona
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: flygeon
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware (>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: debs/rootless/com.byg.iosios.net.fanqieread_0.1-1_iphoneos-arm64.deb
+Size: 121916
+MD5sum: e6daed6375da5ca53d4ebaf46a664d8f
+SHA1: be9b0a9eb483e2f3184e63b9be097a73fca92b25
+SHA256: e1d0153ef6cf599d849843e13168851f2421a4b139e68cbaf9535a9dffaabe67
+Section: Tweaks
+Description: 搬运至搬运工源（byg.iosios.net）美化工具，应用底栏悬浮
+Author: yan
+Name: Fiona底栏调整-rootless
