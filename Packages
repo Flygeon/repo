@@ -19,7 +19,7 @@ Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: flygeon
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware (>= 14.0), com.mrgcgamer.libgcuniversal
-Filename: debs/rootless/com.byg.iosios.net.fanqieread_0.1-1_iphoneos-arm64.deb
+Filename: debs/rootless/Fiona-Rootless_1.0.6_iphoneos-arm64.deb
 Size: 121916
 MD5sum: e6daed6375da5ca53d4ebaf46a664d8f
 SHA1: be9b0a9eb483e2f3184e63b9be097a73fca92b25
@@ -39,6 +39,6 @@ MD5sum: 114514
 SHA1: 114514
 SHA256: 114514
 Section: 关于本源
-Description: 源主比较懒，随缘更新，主要是自用，本人设备：iPhone 6s（15.8.1多巴胺）；iPhone XR（13.3奥德赛）
+Description: 源主比较懒，随缘更新，主要是自用，本人设备：iPhone 6s（15.8.1多巴胺）；iPhone XR（13.3奥德赛），源内插件以源主设备为主
 Author: flygeon
 Name: 关于本源
