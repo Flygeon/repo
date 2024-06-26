@@ -1,7 +1,0 @@
-Origin: 鸽源
-Label: 鸽源
-Suite: stable
-Version: 1.0
-Codename: pigeon
-Architectures: iphoneos-arm iphoneos-arm64
-Components: main
