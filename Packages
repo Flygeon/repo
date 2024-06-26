@@ -42,3 +42,19 @@ Section: 关于本源
 Description: 源主比较懒，随缘更新，主要是自用，本人设备：iPhone 6s（15.8.1多巴胺）；iPhone XR（13.3奥德赛），源内插件以源主设备为主
 Author: flygeon
 Name: 关于本源
+
+Package: com.flygeon.infuseplus
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: flygeon
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.dvntm.infuseplus_1.2.0_iphoneos_arm64.deb
+Size: 125280
+MD5sum: fee899c4a2b4254669f2327b7d349bf3
+SHA1: eb98046e58e4b45e2f3beacec785cf8180c863bf
+SHA256: c8c8af3b38c8dcc2c4f5511dd20ee05e62bfaa9cbc3e9026a6dbe4280198721a
+Section: Tweaks
+Description: infuse增强
+Author: dvntm
+Name:infuseplus-rootless
