@@ -5,11 +5,11 @@ Maintainer: flygeon
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootless/com.byg.iosios.net.fanqieread_0.1-1_iphoneos-arm64.deb
-Size: 4000
+Size: 4064
 MD5sum: d312cff2ed6318d7b9212924a4745017
 SHA1: 06d008965183b0c79ff21adc7c5e15209ee4924d
 SHA256: 4921a2554cfa33560f7605d92f16a4248c17d3d31f7ef04b8f1df36431fd0d20
 Section: Tweaks
-Description: 搬运至搬运工源（byg.iosios.net）,去除广告，解锁VIP
+Description: 搬运至搬运工源（byg.iosios.net）去除广告，解锁VIP
 Author: iOSign
 Name: 番茄小说hook-rootless
